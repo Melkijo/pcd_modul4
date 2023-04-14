@@ -7,7 +7,7 @@
 2. Lakukan Dekomposisi Wavelet Level 1 pada citra hasil rekonstruksi menggunakan kernel x.
 
 ### EXPLORASI (15) ###
-![image](https://user-images.githubusercontent.com/93898408/232108505-52c00ec8-210c-4654-bd10-0fde61609cbb.png)
+![image](https://user-images.githubusercontent.com/93898408/232108505-52c00ec8-210c-4654-bd10-0fde61609cbb.png) <br>
 3. Lakukan Dekomposisi Wavelet Level 2 pada hasil dekomposisi level 1 menggunakan kernel x dan tampilkan citra seperti gambar di atas:
 
 
