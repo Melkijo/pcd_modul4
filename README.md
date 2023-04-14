@@ -3,7 +3,10 @@
 
 ## SOAL JURNAL MODUL 4 ##
 ### PRIORITAS (85) ###
+![image](https://user-images.githubusercontent.com/93898408/232109688-3a84ac26-677a-4215-9687-12ba9b6f6d5b.png) <br>
 1. Lakukan Rekonstruksi Wavelet terhadap citra pada folder assets
+
+![image](https://user-images.githubusercontent.com/93898408/232110125-92edc484-9cd3-4ad4-8a16-ae0a318a6249.png)
 2. Lakukan Dekomposisi Wavelet Level 1 pada citra hasil rekonstruksi menggunakan kernel x.
 
 ### EXPLORASI (15) ###
