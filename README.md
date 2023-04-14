@@ -11,7 +11,7 @@
 - ![image](https://user-images.githubusercontent.com/93898408/232108785-8307f8b9-599f-4906-84c7-28b6f572f0b1.png) <br>
 
 
-*kernel x: <br>
+**kernel x:** <br>
 low pass filter = [0.7, 0.7] <br>
 high pass filter = [-0.7, 0.7] <br>
 
