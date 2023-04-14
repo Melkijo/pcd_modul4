@@ -3,10 +3,7 @@
 
 ## SOAL JURNAL MODUL 4 ##
 ### PRIORITAS (85) ###
-- ![image](https://user-images.githubusercontent.com/93898408/232109688-3a84ac26-677a-4215-9687-12ba9b6f6d5b.png) <br>
 1. Lakukan Rekonstruksi Wavelet terhadap citra pada folder assets
-
-- ![image](https://user-images.githubusercontent.com/93898408/232110125-92edc484-9cd3-4ad4-8a16-ae0a318a6249.png) <br>
 2. Lakukan Dekomposisi Wavelet Level 1 pada citra hasil rekonstruksi menggunakan kernel x.
 
 ### EXPLORASI (15) ###
@@ -17,3 +14,8 @@
 *kernel x: <br>
 low pass filter = [0.7, 0.7] <br>
 high pass filter = [-0.7, 0.7] <br>
+
+
+Hasil Run :
+- ![image](https://user-images.githubusercontent.com/93898408/232109688-3a84ac26-677a-4215-9687-12ba9b6f6d5b.png) <br>
+- ![image](https://user-images.githubusercontent.com/93898408/232110125-92edc484-9cd3-4ad4-8a16-ae0a318a6249.png) <br>
