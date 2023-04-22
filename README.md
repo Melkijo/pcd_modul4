@@ -8,7 +8,7 @@
 
 ### EXPLORASI (15) ###
 3. Lakukan Dekomposisi Wavelet Level 2 pada hasil dekomposisi level 1 menggunakan kernel x dan tampilkan citra seperti gambar berikut:
-- ![image](https://user-images.githubusercontent.com/93898408/232108785-8307f8b9-599f-4906-84c7-28b6f572f0b1.png) <br>
+- ![dekom2](https://user-images.githubusercontent.com/93898408/233792417-2f15a417-8aa9-4eb7-bc12-09730fc6745d.jpg) <br>
 
 
 **kernel x:** <br>
@@ -17,5 +17,6 @@ high pass filter = [-0.7, 0.7] <br>
 
 
 Hasil Run :
-- ![image](https://user-images.githubusercontent.com/93898408/232109688-3a84ac26-677a-4215-9687-12ba9b6f6d5b.png) <br>
-- ![image](https://user-images.githubusercontent.com/93898408/232110125-92edc484-9cd3-4ad4-8a16-ae0a318a6249.png) <br>
+- ![rekonst](https://user-images.githubusercontent.com/93898408/233792402-0dfe0a7e-ca8f-4c90-bf25-ebb3113e3671.jpg) <br>
+- ![dekom](https://user-images.githubusercontent.com/93898408/233792409-d8223c7e-0b67-44fc-b2fd-83de9e406b6f.jpg)
+<br>
